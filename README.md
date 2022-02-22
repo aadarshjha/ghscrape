@@ -13,4 +13,6 @@ Make sure that you:
 2. Find the content
 3. Load it up into a Python data structure. 
 
+Right now, the table has been saved as a `raw_table` variable. But, you will need to extract the data, using data parsing, and load it into a Python data structure of your choice. 
+
 That's it! Let us know if you need any help!
